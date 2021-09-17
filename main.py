@@ -1,4 +1,3 @@
-from os import scandir
 from fibonacci import Fibonacci
 
 INfilename = "FIBISTR.INP"
